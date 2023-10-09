@@ -1,5 +1,13 @@
 # Formula 1 database design
 
+## Table of Contents
+- [Overview](#overview)
+- [Database](#database)
+- [Instance](#instance)
+- [Manipulation](#manipulation)
+- [Report](#report)
+- [Usage](#usage)
+
 ## Overview
 This project creates, populates and manipulates a database regarding Formula 1. A theoretical background is provided in report.pdf.
 This was a group project handed in as part of the completion of the course Database Systems at Technical University of Denmark (DTU).
