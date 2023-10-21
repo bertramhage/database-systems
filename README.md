@@ -43,14 +43,15 @@ In the script db_manipulate.sql various queries, functions and procedures are pr
 ## Report
 In the report the theoretical background behind the database is described in detail. 
 The report contains the sections:
-1 Statement of requirements
-2 Conceptual design
-3 Logical design
-4 Implementation
-5 Database instance
-6 SQL data queries
-7 SQL programming
-8 SQL table modifications
+
+1. Statement of requirements
+2. Conceptual design
+3. Logical design
+4. Implementation
+5. Database instance
+6. SQL data queries
+7. SQL programming
+8. SQL table modifications
 
 ## Usage
 
